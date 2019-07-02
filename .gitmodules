@@ -1,3 +1,6 @@
 [submodule "NeoSafety"]
 	path = NeoSafety
 	url = https://github.com/Asirifodo77/NeoSafety
+[submodule "CSV_ShellScript"]
+	path = CSV_ShellScript
+	url = https://github.com/Asirifodo77/CSV_ShellScript
